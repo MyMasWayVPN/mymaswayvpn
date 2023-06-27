@@ -9,6 +9,13 @@
   ## (MY TELEGRAM)
 
 [![LeetHub](https://github.com/mymaswayvpn/mymaswayvpn/blob/main/my.jpg)](https://t.me/maswayvpn "LeetHub saves lives!")
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mymaswayvpn&label=Profile%20views&color=09476f&style=flat" alt="mymaswayvpn" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mymaswayvpn" alt="mymaswayvpn" /></a> </p>
+
+
 ## (ANALYSIS)
 <p align="center">
 
