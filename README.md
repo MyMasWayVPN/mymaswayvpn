@@ -8,7 +8,7 @@
 
   ## (MY YOUTUBE)
 
-[![LeetHub](https://github.com/mymaswayvpn/mymaswayvpn/blob/main/my.png)](https://t.me/maswayvpn "LeetHub saves lives!")
+[![LeetHub](https://github.com/mymaswayvpn/mymaswayvpn/blob/main/my.jpg)](https://t.me/maswayvpn "LeetHub saves lives!")
 ## (ANALYSIS)
 <p align="center">
 
