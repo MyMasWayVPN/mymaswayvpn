@@ -30,7 +30,7 @@
 🟦 Grup Telegram: https://t.me/maswayvpnofficial
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp,json,github,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,github,powershell,azure,docker,gcp,json)](https://skillicons.dev)
 
 
 
