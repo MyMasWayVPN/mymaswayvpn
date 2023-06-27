@@ -29,7 +29,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mymaswayvpn&" alt="mymaswayvpn" /></p>
 
 
 ```
@@ -38,6 +37,7 @@
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,github,powershell,azure,docker,gcp,json)](https://skillicons.dev)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mymaswayvpn&" alt="mymaswayvpn" /></p>
 
 
 
