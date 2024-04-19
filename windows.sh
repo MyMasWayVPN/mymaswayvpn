@@ -15,7 +15,7 @@ read -p "Pilih [1]: " PILIHOS
 case "$PILIHOS" in
 	1|"") PILIHOS="https://files.sowan.my.id/windows2019.gz"  IFACE="Ethernet Instance 0 2";;
 	2) PILIHOS="http://128.199.78.158/W10MasWay.gz" IFACE="Ethernet Instance";;
-	3) PILIHOS="http://128.199.78.158/windows10spectre.gz" IFACE="Ethernet Instance";; 
+	3) PILIHOS="https://rizzcode.my.id/2:/W10MasWay.xz" IFACE="Ethernet Instance 0 0";; 
 	4) PILIHOS="http://128.199.78.158/windows12.gz" IFACE="Ethernet Instance";; 
 	5) PILIHOS="http://128.199.78.158/windows16.gz" IFACE="Ethernet Instance";; 
 	6) PILIHOS="http://128.199.78.158/windows22.gz" IFACE="Ethernet Instance";; 
@@ -95,8 +95,8 @@ echo JENDELA INI JANGAN DITUTUP
 exit
 EOF
 
-wget --no-check-certificate -O- $PILIHOS | gunzip | dd of=/dev/vda bs=3M status=progress
-
+####wget --no-check-certificate -O- $PILIHOS | gunzip | dd of=/dev/vda bs=3M status=progress
+wget --no-check-certificate -O- $PILIHOS | xzcat | dd of=/dev/vda  bs=3M status=progress
 mount.ntfs-3g /dev/vda2 /mnt
 cd "/mnt/ProgramData/Microsoft/Windows/Start Menu/Programs/"
 cd Start* || cd start*; \
