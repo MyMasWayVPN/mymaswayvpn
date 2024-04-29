@@ -15,7 +15,7 @@ read -p "Pilih [1]: " PILIHOS
 case "$PILIHOS" in
 	1|"") PILIHOS="https://files.sowan.my.id/windows2019.gz"  IFACE="Ethernet Instance 0 2";;
 	2) PILIHOS="http://128.199.78.158/W10MasWay.gz" IFACE="Ethernet Instance";;
-	3) PILIHOS="https://rizzcode.my.id/2:/W10MasWay.xz" IFACE="Ethernet Instance 0 0";; 
+	3) PILIHOS="https://rizzcode.my.id/2:/W10MasWay.xz" IFACE="Ethernet Instance 0";; 
 	4) PILIHOS="http://128.199.78.158/windows12.gz" IFACE="Ethernet Instance";; 
 	5) PILIHOS="http://128.199.78.158/windows16.gz" IFACE="Ethernet Instance";; 
 	6) PILIHOS="http://128.199.78.158/windows22.gz" IFACE="Ethernet Instance";; 
